@@ -1,0 +1,37 @@
+{
+      "name": "Wicked Stallion #8174",
+      "external_link": "https://wickedcranium.com/",
+      "image": "https://bafybeienmipsewav2hbfb44vvvorb2guj2sidkuhue4pbxp5sqikzcvreq.ipfs.dweb.link/",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "WinterGaze"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Saddle",
+          "value": "FruitsSaddle"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "PurpleSmoke"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Stare"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "VikingShield"
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Attributes",
+          "value": 6
+        }
+      ],
+      "tokenId": "8174"
+    }

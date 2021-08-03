@@ -1,0 +1,37 @@
+{
+      "name": "Wicked Stallion #7052",
+      "external_link": "https://wickedcranium.com/",
+      "image": "https://bafybeictm23ovwvj7ufa2rigxcpbbai6224pvx56jeh472n4qwpplaspda.ipfs.dweb.link/",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Maire"
+        },
+        {
+          "trait_type": "Body",
+          "value": "TheOG"
+        },
+        {
+          "trait_type": "Saddle",
+          "value": "SilverSaddle"
+        },
+        {
+          "trait_type": "Bag",
+          "value": "DuffelBagBrown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Stare"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "VikingShield"
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Attributes",
+          "value": 6
+        }
+      ],
+      "tokenId": "7052"
+    }

@@ -1,0 +1,37 @@
+{
+      "name": "Wicked Stallion #14",
+      "external_link": "https://wickedcranium.com/",
+      "image": "https://bafybeial7rjsdne3jvtsk5wfaj2a72stt47ag3vtwyf4x77stjgvihxsja.ipfs.dweb.link/",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "MidnightExpress"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gin"
+        },
+        {
+          "trait_type": "Saddle",
+          "value": "BusinessSaddle"
+        },
+        {
+          "trait_type": "Bag",
+          "value": "DuffelBagGrey"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Stare"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "PalouseNeck"
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Attributes",
+          "value": 6
+        }
+      ],
+      "tokenId": "14"
+    }

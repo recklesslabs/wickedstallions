@@ -1,0 +1,37 @@
+{
+      "name": "Wicked Stallion #8412",
+      "external_link": "https://wickedcranium.com/",
+      "image": "https://bafybeiaag4q4yeixlyas2nv2sofzdzrx2oolsaagzp6kqrf2twk57hfw3y.ipfs.dweb.link/",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "BakersChocolate"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tribal"
+        },
+        {
+          "trait_type": "Saddle",
+          "value": "VikingSaddle"
+        },
+        {
+          "trait_type": "Bag",
+          "value": "VikingAxe"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tongue"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "KiltEyepatch"
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Attributes",
+          "value": 6
+        }
+      ],
+      "tokenId": "8412"
+    }

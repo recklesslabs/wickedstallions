@@ -1,0 +1,37 @@
+{
+      "name": "Wicked Stallion #589",
+      "external_link": "https://wickedcranium.com/",
+      "image": "https://bafybeig4nxc4lxbrqemdefvovtm5z5lbquig5sh7t55jhnxld5lj6upsdi.ipfs.dweb.link/",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "BrownPod"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Gin"
+        },
+        {
+          "trait_type": "Saddle",
+          "value": "GoldSaddle"
+        },
+        {
+          "trait_type": "Bag",
+          "value": "RippedBags"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "KiltEyepatch"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "CowBells"
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Attributes",
+          "value": 6
+        }
+      ],
+      "tokenId": "589"
+    }
